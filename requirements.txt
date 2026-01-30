@@ -1,0 +1,2 @@
+# Requires: pseudo-hesitation
+# (Not available on PyPI)
